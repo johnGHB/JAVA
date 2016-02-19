@@ -7,7 +7,7 @@ import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
  */
 public class Player {
 
-    public String name;
+    public String fullname;
     public String health;
     public String weapon;
 
