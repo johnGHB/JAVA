@@ -7,8 +7,8 @@ import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
  */
 public class Player {
 
-    public String fullname;
-    public String health;
+    public String name;
+    public int health;
     public String weapon;
 
     public void loseHealth (int damage) {
