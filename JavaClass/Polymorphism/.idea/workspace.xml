@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a9656d-1ed6-4bcc-8835-1e1767ad755c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d4a9656d-1ed6-4bcc-8835-1e1767ad755c" name="Default" comment="" />
     <ignored path="Polymorphism.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,8 +81,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="67" />
+    <option name="x" value="137" />
+    <option name="y" value="47" />
     <option name="width" value="1540" />
     <option name="height" value="949" />
   </component>
@@ -589,7 +587,7 @@
       <created>1456241731501</created>
       <option name="number" value="Default" />
       <updated>1456241731501</updated>
-      <workItem from="1456241732830" duration="2770000" />
+      <workItem from="1456241732830" duration="3113000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Polymorphism">
       <created>1456241802288</created>
@@ -607,10 +605,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2770000" />
+    <option name="totallyTimeSpent" value="3113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="67" width="1540" height="949" extended-state="0" />
+    <frame x="137" y="47" width="1540" height="949" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
