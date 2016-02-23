@@ -3,8 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	    Player player = new Player();
-        player.name = "Tim";
+/*	    Player player = new Player();
+        player.fullname = "Tim";
         player.health = 20;
         player.weapon = "Sword";
 
@@ -15,6 +15,8 @@ public class Main {
         damage = 11;
         player.health = 200;
         player.loseHealth(damage);
-        System.out.println("Remaining health = " + player.healthRemaining());
+        System.out.println("Remaining health = " + player.healthRemaining());*/
+
+
     }
 }
