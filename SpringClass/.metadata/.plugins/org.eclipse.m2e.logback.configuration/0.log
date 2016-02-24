@@ -1,0 +1,89 @@
+2016-02-24 13:43:44,743 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-01:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/pom.xml.
+2016-02-24 13:43:44,851 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-02:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-02/pom.xml.
+2016-02-24 13:43:44,882 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-03:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-03/pom.xml.
+2016-02-24 13:43:44,919 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:SpringSample-01:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01/pom.xml.
+2016-02-24 13:43:45,197 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:SpringSample-01-Initial:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01-Initial/pom.xml.
+2016-02-24 13:43:47,350 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-03/src/main/java
+2016-02-24 13:43:47,350 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-03/src/test/java
+2016-02-24 13:43:47,540 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-01/src/main/java
+2016-02-24 13:43:47,541 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-01/src/test/java
+2016-02-24 13:43:47,577 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-02/src/main/java
+2016-02-24 13:43:47,578 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-02/src/test/java
+2016-02-24 13:43:47,614 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01/src/main/java
+2016-02-24 13:43:47,614 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringSample-01/src/main/resources
+2016-02-24 13:43:47,615 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01/src/test/java
+2016-02-24 13:43:47,661 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01-Initial/src/main/java
+2016-02-24 13:43:47,661 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringSample-01-Initial/src/main/resources
+2016-02-24 13:43:47,662 [Worker-93] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01-Initial/src/test/java
+2016-02-24 13:43:47,693 [Worker-93] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 7 sec
+2016-02-24 13:43:48,330 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:48,341 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/src/main/resources
+2016-02-24 13:43:48,343 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:48,344 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/src/test/resources
+2016-02-24 13:43:48,417 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:48,418 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-02/src/main/resources
+2016-02-24 13:43:48,419 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:48,420 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-02/src/test/resources
+2016-02-24 13:43:48,519 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:48,520 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-03/src/main/resources
+2016-02-24 13:43:48,523 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:48,529 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-03/src/test/resources
+2016-02-24 13:43:50,168 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:50,200 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-02-24 13:43:50,226 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:50,227 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01/src/test/resources
+2016-02-24 13:43:50,386 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:50,387 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-02-24 13:43:50,414 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:43:50,415 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01-Initial/src/test/resources
+2016-02-24 13:45:39,973 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-24 13:45:41,291 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-01:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/pom.xml.
+2016-02-24 13:45:41,319 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-02:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-02/pom.xml.
+2016-02-24 13:45:41,347 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-03:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-03/pom.xml.
+2016-02-24 13:45:41,380 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:SpringSample-01:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01/pom.xml.
+2016-02-24 13:45:41,495 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:SpringSample-01-Initial:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01-Initial/pom.xml.
+2016-02-24 13:45:42,071 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-01/src/main/java
+2016-02-24 13:45:42,071 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-01/src/test/java
+2016-02-24 13:45:42,141 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-02/src/main/java
+2016-02-24 13:45:42,141 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-02/src/test/java
+2016-02-24 13:45:42,187 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-03/src/main/java
+2016-02-24 13:45:42,187 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-03/src/test/java
+2016-02-24 13:45:42,240 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01/src/main/java
+2016-02-24 13:45:42,240 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringSample-01/src/main/resources
+2016-02-24 13:45:42,240 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01/src/test/java
+2016-02-24 13:45:42,271 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01-Initial/src/main/java
+2016-02-24 13:45:42,271 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringSample-01-Initial/src/main/resources
+2016-02-24 13:45:42,272 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringSample-01-Initial/src/test/java
+2016-02-24 13:45:42,490 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-02-24 13:45:42,684 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:42,698 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/src/main/resources
+2016-02-24 13:45:42,701 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:42,701 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/src/test/resources
+2016-02-24 13:45:43,234 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:43,235 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-02/src/main/resources
+2016-02-24 13:45:43,237 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:43,250 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-02/src/test/resources
+2016-02-24 13:45:43,307 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:43,307 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-03/src/main/resources
+2016-02-24 13:45:43,310 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:43,311 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-03/src/test/resources
+2016-02-24 13:45:43,497 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:43,498 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-02-24 13:45:43,505 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:43,519 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01/src/test/resources
+2016-02-24 13:45:44,043 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:44,045 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-02-24 13:45:44,313 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:45:44,365 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/SpringSample-01-Initial/src/test/resources
+2016-02-24 13:50:31,161 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-24 13:50:31,380 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.denofprogramming:PreSpringSample-01:0.0.1-SNAPSHOT @ /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/pom.xml.
+2016-02-24 13:50:31,484 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-01/src/main/java
+2016-02-24 13:50:31,484 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PreSpringSample-01/src/test/java
+2016-02-24 13:50:31,540 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-02-24 13:50:31,732 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:50:31,745 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/src/main/resources
+2016-02-24 13:50:31,746 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-24 13:50:31,747 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01/src/test/resources
+2016-02-24 13:52:59,220 [JavaFX Application Thread] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-02-24 13:53:13,872 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/JohnMM2014/Downloads/spring101Part1-master/PreSpringSample-01
+2016-02-24 13:53:13,886 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
