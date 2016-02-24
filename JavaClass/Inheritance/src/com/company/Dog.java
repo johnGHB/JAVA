@@ -14,7 +14,7 @@ public class Dog extends Animal {
 
 
     public Dog(String name, int size, int weight, int eyes, int legs, int tail, int teeth, String coat) {
-        super(name, 1, 1, size, weight);
+        super(name, 1, 1, size, weight);  // super means to include the super class inherited characteristics in addition to the unique characteristics for Dog
         this.eyes = eyes;
         this.legs = legs;
         this.tail = tail;
@@ -26,7 +26,7 @@ public class Dog extends Animal {
         System.out.println("Dog.chew() called");
     }
 
-    @Override
+    @Override  // this means we are overriding the method that is in the super class or inherited class
     public void eat() {
         System.out.println("Dog.eat() called");
         chew();
@@ -47,7 +47,7 @@ public class Dog extends Animal {
         System.out.println("Dog.moveLegs() called");
     }
 
-    @Override
+    @Override // this means we are overriding the method that is in the super class or inherited class
     public void move(int speed) {
         System.out.println("Dog.move() called");
         moveLegs(speed);

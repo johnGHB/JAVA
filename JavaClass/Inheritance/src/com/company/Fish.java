@@ -10,7 +10,7 @@ public class Fish extends Animal {
     private int fins;
 
     public Fish(String name, int size, int weight, int gills, int eyes, int fins) {
-        super(name, 1, 1, size, weight);
+        super(name, 1, 1, size, weight); // super means to include the super class inherited characteristics in addition to the unique characteristics for Dog
         this.gills = gills;
         this.eyes = eyes;
         this.fins = fins;
