@@ -1,28 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ed893ac-3fbb-4982-87e9-016e603742db" name="Default" comment="">
+    <list default="true" id="1ed893ac-3fbb-4982-87e9-016e603742db" name="Default" comment="commit changes">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.history/a8/d0898e8f2edb00151b8fa6693e452bcd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.history/bf/501488f609db00151b8fa6693e452bcd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.history/f5/d04434572edb00151b8fa6693e452bcd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/MyTest/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/MyTest/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/PreSpringSample-01/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/PreSpringSample-01/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/PreSpringSample-02/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/PreSpringSample-02/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/PreSpringSample-03/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/PreSpringSample-03/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.indexes/78/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/SpringSample-01-Initial/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/SpringSample-01-Initial/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/SpringSample-01/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.projects/SpringSample-01/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/0.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/23/4004f47e17db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/2e/50fcf97215db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/2e/90ad512d12db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/33/5087d56e12db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/34/6031d03618db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/38/0011b59e19db00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/38/80b61b6a17db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/3c/804fdd6e12db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/42/0038b63f19db00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/4e/e0231900bfdc00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/5a/e0ede4d315db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/6b/9081d67818db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/6b/f0bb0cfc14db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/74/106a95febedc00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/7f/2034cb1c1adb00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/80/606973ea10db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/83/706720fe19db00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/83/9087578d18db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/8d/c0853e3e11db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/92/d0b3195b17db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/9d/509b0dcc18db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/9e/c08bc02515db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/a1/50cd156919db00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/a4/50c072041adb00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/a7/606e14dc19db00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/bf/70a5bb00bfdc00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/c/d0ee98660bdb001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/d5/10c0f30b18db001512ff950609ae9f49" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.history/dc/a0bbb18919db00151594d918eafc446b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/7/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/af/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/e4/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/2.snap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.epp.logging.aeri.ui/history/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/9.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.mylyn/.tasks.xml.zip" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.mylyn/.tasks.xml.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.mylyn/tasks.xml.zip" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.mylyn/tasks.xml.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/7/history.index" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/7/history.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/e4/81/db/history.index" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/e4/81/db/history.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/e4/history.index" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.indexes/e4/history.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.markers.snap" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.markers.snap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.syncinfo.snap" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.syncinfo.snap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.markers" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.projects/HelloSpring/.markers" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/2.snap" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.resources/2.snap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.core/3616079564.index" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.core/3616079564.index" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.log" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.dashboard.ui.prefs" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.dashboard.ui.prefs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/../../SpringClass/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/HelloSpring/src/Beans.xml" afterPath="$PROJECT_DIR$/../../SpringMVC/HelloSpring/src/Beans.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/HelloSpring/src/com/tutorialspoint/HelloWorld.java" afterPath="$PROJECT_DIR$/../../SpringMVC/HelloSpring/src/com/tutorialspoint/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/HelloSpring/src/com/tutorialspoint/MainApp.java" afterPath="$PROJECT_DIR$/../../SpringMVC/HelloSpring/src/com/tutorialspoint/MainApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" afterPath="$PROJECT_DIR$/../../SpringMVC/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml" />
     </list>
     <ignored path="Encapsulation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,8 +178,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="90" />
-    <option name="y" value="80" />
+    <option name="x" value="40" />
+    <option name="y" value="32" />
     <option name="width" value="1540" />
     <option name="height" value="949" />
   </component>
@@ -634,7 +702,7 @@
       <workItem from="1455807330749" duration="833000" />
       <workItem from="1455826048624" duration="1706000" />
       <workItem from="1456190654258" duration="3203000" />
-      <workItem from="1456846890034" duration="154000" />
+      <workItem from="1456846890034" duration="225000" />
     </task>
     <task id="LOCAL-00001" summary="commit changes">
       <created>1456191819712</created>
@@ -652,10 +720,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6961000" />
+    <option name="totallyTimeSpent" value="7032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="80" width="1540" height="949" extended-state="1" />
+    <frame x="40" y="32" width="1540" height="949" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
